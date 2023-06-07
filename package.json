@@ -1,0 +1,15 @@
+{
+  "name": "bot-v-rising",
+  "version": "1.0.0",
+  "description": "Bot pour le serveur V-Rising de 1nGames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian lamb",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.1.4"
+  }
+}
